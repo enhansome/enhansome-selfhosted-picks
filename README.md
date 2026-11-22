@@ -25,11 +25,11 @@ Every project is free, open-source, and actively maintained. Categories are tagg
 
 Notes, knowledge bases, kanban, and personal workspace tools.
 
-* [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 136,082 | 🐛 3,591 | 🌐 TypeScript | 📅 2026-11-21 — Virtual whiteboard for hand-drawn-style diagrams.
-* [Affine](https://github.com/toeverything/AFFiNE) ⭐ 76,248 | 🐛 843 | 🌐 TypeScript | 📅 2026-11-21 — Local-first Notion and Miro alternative.
-* [Reactive Resume](https://github.com/AmruthPillai/Reactive-Resume) ⭐ 45,960 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-20 — Free and open-source resume builder.
-* [Docmost](https://github.com/docmost/docmost) ⭐ 22,394 | 🐛 294 | 🌐 TypeScript | 📅 2026-11-21 — Open-source Notion and Confluence alternative.
-* [Colanode](https://github.com/colanode/colanode) ⭐ 5,216 | 🐛 48 | 🌐 TypeScript | 📅 2026-04-03 — Local-first Slack and Notion alternative.
+* [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 136,132 | 🐛 3,597 | 🌐 TypeScript | 📅 2026-11-22 — Virtual whiteboard for hand-drawn-style diagrams.
+* [Affine](https://github.com/toeverything/AFFiNE) ⭐ 76,797 | 🐛 842 | 🌐 TypeScript | 📅 2026-11-22 — Local-first Notion and Miro alternative.
+* [Reactive Resume](https://github.com/AmruthPillai/Reactive-Resume) ⭐ 45,990 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-20 — Free and open-source resume builder.
+* [Docmost](https://github.com/docmost/docmost) ⭐ 22,398 | 🐛 302 | 🌐 TypeScript | 📅 2026-11-22 — Open-source Notion and Confluence alternative.
+* [Colanode](https://github.com/colanode/colanode) ⭐ 5,217 | 🐛 48 | 🌐 TypeScript | 📅 2026-04-03 — Local-first Slack and Notion alternative.
 * [Slash](https://github.com/yourselfhosted/slash) ⭐ 3,193 | 🐛 45 | 🌐 TypeScript | 📅 2026-08-24 — Open-source URL shortener and bookmarks manager.
 * [Kanba](https://github.com/Kanba-co/kanba) ⭐ 664 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-08 — Minimal open-source Trello alternative.
 
@@ -37,24 +37,24 @@ Notes, knowledge bases, kanban, and personal workspace tools.
 
 Customer support, email infrastructure, newsletters, and notifications.
 
-* [Novu](https://github.com/novuhq/novu) ⭐ 40,401 | 🐛 103 | 🌐 TypeScript | 📅 2026-11-21 — Open-source multi-channel notifications infrastructure.
-* [Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 40,303 | 🐛 1,630 | 🌐 Ruby | 📅 2026-11-20 — Open-source customer support and Intercom alternative.
-* [Listmonk](https://github.com/knadh/listmonk) ⭐ 24,409 | 🐛 74 | 🌐 Go | 📅 2026-11-15 — High-performance self-hosted newsletter and mailing list manager.
-* [useSend](https://github.com/usesend/useSend) ⭐ 4,819 | 🐛 51 | 🌐 TypeScript | 📅 2026-11-21 — Open-source Resend and SendGrid alternative.
-* [Open Archiver](https://github.com/LogicLabs-OU/OpenArchiver) ⭐ 2,488 | 🐛 236 | 🌐 TypeScript | 📅 2026-10-24 — Self-hosted email archiving and search.
-* [Notifuse](https://github.com/Notifuse/notifuse) ⭐ 2,304 | 🐛 2 | 🌐 Go | 📅 2026-11-21 — Self-hosted Mailchimp and Brevo alternative.
-* [Gmail Cleaner](https://github.com/Gururagavendra/gmail-cleaner) ⭐ 2,156 | 🐛 31 | 🌐 Python | 📅 2026-10-22 — Bulk unsubscribe and clean Gmail locally.
+* [Novu](https://github.com/novuhq/novu) ⭐ 40,411 | 🐛 100 | 🌐 TypeScript | 📅 2026-11-22 — Open-source multi-channel notifications infrastructure.
+* [Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 40,355 | 🐛 1,634 | 🌐 Ruby | 📅 2026-11-20 — Open-source customer support and Intercom alternative.
+* [Listmonk](https://github.com/knadh/listmonk) ⭐ 24,422 | 🐛 63 | 🌐 Go | 📅 2026-11-22 — High-performance self-hosted newsletter and mailing list manager.
+* [useSend](https://github.com/usesend/useSend) ⭐ 4,822 | 🐛 50 | 🌐 TypeScript | 📅 2026-11-22 — Open-source Resend and SendGrid alternative.
+* [Open Archiver](https://github.com/LogicLabs-OU/OpenArchiver) ⭐ 2,489 | 🐛 237 | 🌐 TypeScript | 📅 2026-10-24 — Self-hosted email archiving and search.
+* [Notifuse](https://github.com/Notifuse/notifuse) ⭐ 2,305 | 🐛 4 | 🌐 Go | 📅 2026-11-22 — Self-hosted Mailchimp and Brevo alternative.
+* [Gmail Cleaner](https://github.com/Gururagavendra/gmail-cleaner) ⭐ 2,157 | 🐛 31 | 🌐 Python | 📅 2026-10-22 — Bulk unsubscribe and clean Gmail locally.
 * [Sessy](https://github.com/marckohlbrugge/sessy) ⭐ 945 | 🐛 2 | 🌐 Ruby | 📅 2026-11-19 — Open-source email observability for AWS SES.
 
 ## Storage & File Sharing
 
 Self-hosted cloud storage and peer-to-peer file transfer.
 
-* [LocalSend](https://github.com/localsend/localsend) ⭐ 100,128 | 🐛 1,042 | 🌐 Dart | 📅 2026-11-21 — AirDrop-style file sharing across all platforms.
-* [Cloudreve](https://github.com/cloudreve/Cloudreve) ⭐ 28,999 | 🐛 156 | 🌐 Go | 📅 2026-10-20 — Self-hosted cloud storage with multi-cloud support.
-* [ownCloud](https://github.com/owncloud/core) ⭐ 8,851 | 🐛 147 | 🌐 PHP | 📅 2026-11-21 — Self-hosted file sync and content collaboration.
-* [OxiCloud](https://github.com/DioCrafts/OxiCloud) ⭐ 3,735 | 🐛 118 | 🌐 Rust | 📅 2026-11-21 — Ultra-fast self-hosted cloud built in Rust.
-* [Zipline](https://github.com/diced/zipline) ⭐ 3,518 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-20 — Powerful self-hosted file and image uploader.
+* [LocalSend](https://github.com/localsend/localsend) ⭐ 100,292 | 🐛 1,040 | 🌐 Dart | 📅 2026-11-22 — AirDrop-style file sharing across all platforms.
+* [Cloudreve](https://github.com/cloudreve/Cloudreve) ⭐ 29,002 | 🐛 157 | 🌐 Go | 📅 2026-10-20 — Self-hosted cloud storage with multi-cloud support.
+* [ownCloud](https://github.com/owncloud/core) ⭐ 8,851 | 🐛 147 | 🌐 PHP | 📅 2026-11-22 — Self-hosted file sync and content collaboration.
+* [OxiCloud](https://github.com/DioCrafts/OxiCloud) ⭐ 3,739 | 🐛 118 | 🌐 Rust | 📅 2026-11-22 — Ultra-fast self-hosted cloud built in Rust.
+* [Zipline](https://github.com/diced/zipline) ⭐ 3,520 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-20 — Powerful self-hosted file and image uploader.
 * [Transfer.zip](https://github.com/robinkarlberg/transfer.zip-web) ⭐ 1,510 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-23 — Self-hosted WeTransfer alternative for file sharing.
 * [FileRise](https://github.com/error311/FileRise) ⭐ 1,029 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-21 — Self-hosted file manager with WebDAV.
 
@@ -62,9 +62,9 @@ Self-hosted cloud storage and peer-to-peer file transfer.
 
 Video editing, photo galleries, image optimization, and screen recording.
 
-* [Cap (screen recording)](https://github.com/CapSoftware/Cap) ⭐ 25,386 | 🐛 450 | 🌐 Rust | 📅 2026-11-21 — Open-source Loom alternative for screen recordings.
-* [Mazanoke](https://github.com/civilblur/mazanoke) ⭐ 2,746 | 🐛 18 | 🌐 CSS | 📅 2026-09-20 — In-browser image optimizer that works offline.
-* [Kimu](https://github.com/trykimu/videoeditor) ⭐ 2,312 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-10 — AI-powered browser-based video editor.
+* [Cap (screen recording)](https://github.com/CapSoftware/Cap) ⭐ 25,435 | 🐛 451 | 🌐 Rust | 📅 2026-11-22 — Open-source Loom alternative for screen recordings.
+* [Mazanoke](https://github.com/civilblur/mazanoke) ⭐ 2,745 | 🐛 18 | 🌐 CSS | 📅 2026-09-20 — In-browser image optimizer that works offline.
+* [Kimu](https://github.com/trykimu/videoeditor) ⭐ 2,313 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-10 — AI-powered browser-based video editor.
 * [Photofield](https://github.com/SmilyOrg/photofield) ⭐ 619 | 🐛 38 | 🌐 Go | 📅 2026-11-19 — Blazing-fast self-hosted photo gallery viewer.
 * [Kriti Images](https://github.com/kritihq/kriti-images) ⭐ 269 | 🐛 2 | 🌐 Go | 📅 2026-03-14 — Open-source Cloudflare Images alternative.
 
@@ -72,16 +72,16 @@ Video editing, photo galleries, image optimization, and screen recording.
 
 PDF management and document signing.
 
-* [DocuSeal](https://github.com/docusealco/docuseal) ⭐ 19,115 | 🐛 131 | 🌐 Ruby | 📅 2026-11-19 — Open-source DocuSign alternative for signing.
-* [Documenso](https://github.com/documenso/documenso) ⭐ 15,857 | 🐛 270 | 🌐 TypeScript | 📅 2026-11-21 — Open-source DocuSign alternative for documents.
+* [DocuSeal](https://github.com/docusealco/docuseal) ⭐ 19,125 | 🐛 131 | 🌐 Ruby | 📅 2026-11-19 — Open-source DocuSign alternative for signing.
+* [Documenso](https://github.com/documenso/documenso) ⭐ 15,876 | 🐛 272 | 🌐 TypeScript | 📅 2026-11-22 — Open-source DocuSign alternative for documents.
 * [PDFDing](https://github.com/mrmn2/PdfDing) ⚠️ Archived — Self-hosted PDF manager, viewer, and editor.
 
 ## Analytics
 
 Privacy-friendly web analytics and telemetry.
 
-* [Umami](https://github.com/umami-software/umami) ⭐ 40,280 | 🐛 142 | 🌐 TypeScript | 📅 2026-11-20 — Simple, privacy-focused web analytics.
-* [Rybbit](https://github.com/rybbit-io/rybbit) ⭐ 13,349 | 🐛 210 | 🌐 TypeScript | 📅 2026-11-21 — Privacy-friendly Google Analytics alternative.
+* [Umami](https://github.com/umami-software/umami) ⭐ 40,301 | 🐛 148 | 🌐 TypeScript | 📅 2026-11-20 — Simple, privacy-focused web analytics.
+* [Rybbit](https://github.com/rybbit-io/rybbit) ⭐ 13,350 | 🐛 211 | 🌐 TypeScript | 📅 2026-11-21 — Privacy-friendly Google Analytics alternative.
 * [Ackee](https://github.com/electerious/Ackee) ⭐ 4,733 | 🐛 22 | 🌐 JavaScript | 📅 2026-10-23 — Self-hosted, node-based privacy analytics.
 * [Self-hosted Metrics](https://self-hosted-metrics.com) — Privacy-first telemetry for self-hosted apps.
 
@@ -89,39 +89,39 @@ Privacy-friendly web analytics and telemetry.
 
 CMS, RSS readers, and social publishing.
 
-* [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 47,148 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-21 — Generate RSS feeds for almost anything.
-* [Postiz](https://github.com/gitroomhq/postiz-app) ⭐ 42,114 | 🐛 200 | 🌐 TypeScript | 📅 2026-11-20 — Open-source social media scheduling tool.
-* [Miniflux](https://github.com/miniflux/v2) ⭐ 9,958 | 🐛 294 | 🌐 Go | 📅 2026-11-19 — Minimalist, opinionated self-hosted RSS reader.
-* [Statamic](https://github.com/statamic/cms) ⭐ 4,923 | 🐛 193 | 🌐 PHP | 📅 2026-11-21 — Flat-first, Laravel-powered modern CMS.
+* [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 47,162 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-22 — Generate RSS feeds for almost anything.
+* [Postiz](https://github.com/gitroomhq/postiz-app) ⭐ 42,175 | 🐛 198 | 🌐 TypeScript | 📅 2026-11-22 — Open-source social media scheduling tool.
+* [Miniflux](https://github.com/miniflux/v2) ⭐ 9,963 | 🐛 294 | 🌐 Go | 📅 2026-11-22 — Minimalist, opinionated self-hosted RSS reader.
+* [Statamic](https://github.com/statamic/cms) ⭐ 4,924 | 🐛 195 | 🌐 PHP | 📅 2026-11-21 — Flat-first, Laravel-powered modern CMS.
 * [Cockpit](https://github.com/Cockpit-HQ/Cockpit) ⭐ 765 | 🐛 69 | 🌐 PHP | 📅 2026-11-14 — Headless, API-first content management system.
 
 ## Business & Commerce
 
 E-commerce, invoicing, and billing.
 
-* [Medusa](https://github.com/medusajs/medusa) ⭐ 37,352 | 🐛 107 | 🌐 TypeScript | 📅 2026-11-21 — Open-source Shopify alternative for ecommerce.
-* [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) ⭐ 10,613 | 🐛 235 | 🌐 PHP | 📅 2026-11-20 — Invoicing, billing, and payments platform.
-* [Paymenter](https://github.com/Paymenter/Paymenter) ⭐ 2,853 | 🐛 123 | 🌐 PHP | 📅 2026-11-19 — Open-source billing platform for hosting companies.
+* [Medusa](https://github.com/medusajs/medusa) ⭐ 37,373 | 🐛 108 | 🌐 TypeScript | 📅 2026-11-21 — Open-source Shopify alternative for ecommerce.
+* [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) ⭐ 10,613 | 🐛 236 | 🌐 PHP | 📅 2026-11-20 — Invoicing, billing, and payments platform.
+* [Paymenter](https://github.com/Paymenter/Paymenter) ⭐ 2,857 | 🐛 124 | 🌐 PHP | 📅 2026-11-19 — Open-source billing platform for hosting companies.
 * [Invoicely](https://github.com/legions-developer/invoicely) ⭐ 923 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-05 — Simple modern invoice generator.
 
 ## Security & Privacy
 
 Authentication, password management, secrets, CAPTCHA, and ad blocking.
 
-* [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) ⭐ 38,704 | 🐛 1,281 | 🌐 TypeScript | 📅 2026-11-20 — Network-wide ad and tracker blocker.
-* [Infisical](https://github.com/Infisical/infisical) ⭐ 30,664 | 🐛 876 | 🌐 TypeScript | 📅 2026-11-21 — Open-source secrets management platform.
-* [authentik](https://github.com/goauthentik/authentik) ⭐ 26,407 | 🐛 922 | 🌐 Python | 📅 2026-11-21 — Open-source identity provider and SSO.
-* [Cap (CAPTCHA)](https://github.com/tiagozip/cap) ⭐ 8,512 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-21 — Self-hosted CAPTCHA for the modern web.
+* [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) ⭐ 38,736 | 🐛 1,286 | 🌐 TypeScript | 📅 2026-11-20 — Network-wide ad and tracker blocker.
+* [Infisical](https://github.com/Infisical/infisical) ⭐ 30,686 | 🐛 878 | 🌐 TypeScript | 📅 2026-11-22 — Open-source secrets management platform.
+* [authentik](https://github.com/goauthentik/authentik) ⭐ 26,417 | 🐛 925 | 🌐 Python | 📅 2026-11-22 — Open-source identity provider and SSO.
+* [Cap (CAPTCHA)](https://github.com/tiagozip/cap) ⭐ 8,517 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-22 — Self-hosted CAPTCHA for the modern web.
 * [Passbolt](https://github.com/passbolt/passbolt_api) ⭐ 6,241 | 🐛 27 | 🌐 PHP | 📅 2026-11-12 — Open-source password manager for teams.
 
 ## Developer Tools
 
 Runtimes, search, internal tools, package registries, and AI coding.
 
-* [Deno](https://github.com/denoland/deno) ⭐ 109,120 | 🐛 1,755 | 🌐 Rust | 📅 2026-11-17 — Secure JavaScript and TypeScript runtime.
-* [T3 Chat Code](https://github.com/pingdotgg/t3code) ⭐ 69,463 | 🐛 3,723 | 🌐 TypeScript | 📅 2026-11-21 — Minimal web GUI for AI coding agents.
-* [Typesense](https://github.com/typesense/typesense) ⭐ 27,165 | 🐛 940 | 🌐 C++ | 📅 2026-11-20 — Fast, typo-tolerant open-source search engine.
-* [Windmill](https://github.com/windmill-labs/windmill) ⭐ 18,670 | 🐛 846 | 🌐 Rust | 📅 2026-11-21 — Open-source developer platform for internal tools.
+* [Deno](https://github.com/denoland/deno) ⭐ 109,052 | 🐛 1,755 | 🌐 Rust | 📅 2026-11-17 — Secure JavaScript and TypeScript runtime.
+* [T3 Chat Code](https://github.com/pingdotgg/t3code) ⭐ 71,517 | 🐛 3,775 | 🌐 TypeScript | 📅 2026-11-22 — Minimal web GUI for AI coding agents.
+* [Typesense](https://github.com/typesense/typesense) ⭐ 27,164 | 🐛 940 | 🌐 C++ | 📅 2026-11-20 — Fast, typo-tolerant open-source search engine.
+* [Windmill](https://github.com/windmill-labs/windmill) ⭐ 18,682 | 🐛 853 | 🌐 Rust | 📅 2026-11-22 — Open-source developer platform for internal tools.
 * [Crikket](https://github.com/redpangilinan/crikket) ⭐ 161 | 🐛 25 | 🌐 TypeScript | 📅 2026-03-19 — Instant bug reporting and feedback tool.
 * [RepoFlow](https://github.com/RepoFlow-Package-Management) — Universal package registry and proxy manager.
 
@@ -129,17 +129,17 @@ Runtimes, search, internal tools, package registries, and AI coding.
 
 Server platforms and homelab dashboards.
 
-* [Puter](https://github.com/HeyPuter/puter) ⭐ 44,228 | 🐛 54 | 🌐 TypeScript | 📅 2026-11-21 — Web-based, self-hostable internet OS.
-* [Glance](https://github.com/glanceapp/glance) ⭐ 38,337 | 🐛 325 | 🌐 Go | 📅 2026-11-07 — Customizable, fast self-hosted dashboard.
-* [Cosmos Cloud](https://github.com/azukaar/Cosmos-Server) ⭐ 6,204 | 🐛 213 | 🌐 Go | 📅 2026-11-12 — Secure all-in-one self-hosted server platform.
+* [Puter](https://github.com/HeyPuter/puter) ⭐ 44,232 | 🐛 37 | 🌐 TypeScript | 📅 2026-11-22 — Web-based, self-hostable internet OS.
+* [Glance](https://github.com/glanceapp/glance) ⭐ 38,350 | 🐛 325 | 🌐 Go | 📅 2026-11-07 — Customizable, fast self-hosted dashboard.
+* [Cosmos Cloud](https://github.com/azukaar/Cosmos-Server) ⭐ 6,203 | 🐛 213 | 🌐 Go | 📅 2026-11-12 — Secure all-in-one self-hosted server platform.
 * [Dashwise](https://github.com/andreasmolnardev/dashwise) ⭐ 468 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-04 — All-in-one homelab dashboard with auth.
 
 ## Utilities
 
 File converters and small tools.
 
-* [ConvertX](https://github.com/C4illin/ConvertX) ⭐ 19,761 | 🐛 123 | 🌐 TypeScript | 📅 2026-11-21 — Self-hosted online file converter for 1000+ formats.
-* [VERT](https://github.com/VERT-sh/VERT) ⭐ 16,302 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-21 — Local file converter powered by WebAssembly.
+* [ConvertX](https://github.com/C4illin/ConvertX) ⭐ 19,767 | 🐛 125 | 🌐 TypeScript | 📅 2026-11-22 — Self-hosted online file converter for 1000+ formats.
+* [VERT](https://github.com/VERT-sh/VERT) ⭐ 16,327 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-21 — Local file converter powered by WebAssembly.
 
 ***
 
@@ -149,4 +149,4 @@ Suggestions welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for the criteria and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
